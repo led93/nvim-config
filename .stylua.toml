@@ -1,0 +1,4 @@
+# Example file that shows how to specify formatting for a single project folder
+# This styles are going to be applied for the folder nvim
+indent_type = "Spaces"
+indent_width = 2
